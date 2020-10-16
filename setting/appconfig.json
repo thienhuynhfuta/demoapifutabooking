@@ -1,0 +1,6 @@
+{
+    "ElasticSearch":{
+        "Host":"http://localhost:9200",
+        "Index":"futabook"
+    }
+}
